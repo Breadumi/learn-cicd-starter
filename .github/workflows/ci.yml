@@ -1,4 +1,4 @@
-name: ci
+name: ci # I added a comment
 
 on:
   pull_request:
