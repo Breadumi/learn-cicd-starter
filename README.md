@@ -1,4 +1,4 @@
-![Workflow Badge](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![Workflow Badge](https://github.com/Breadumi/learn-cicd-starter/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 
 # learn-cicd-starter (Notely)
 
